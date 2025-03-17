@@ -22,6 +22,7 @@ public class Cine {
 		tituloPelicula = "Sin determinar";
 		precioEntrada = 5;
 	}
+
 	public int getAforo() {
 		return aforo;
 	}
